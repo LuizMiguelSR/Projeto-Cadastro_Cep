@@ -4,5 +4,5 @@
 ### Demonstrativo
 
 <div>
-    <img align="center" alt="Demo" height="504" width="1585"  src="https://i.imgur.com/frX8PPN.gif">
+    <img align="center" alt="Demo" height="500" width="500"  src="https://i.imgur.com/frX8PPN.gif">
 </div>
